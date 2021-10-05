@@ -1,8 +1,7 @@
 - 👋 Hi, I’m GopalSaraf
-- 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Nothing
-- 📫 How to reach me ... 🤷‍♂️
+- 👀 I’m interested in Science nd Coding..
+- 🌱 I’m currently learning Python
+- 📫 How to reach me ... Idk🤷‍ but can DM me [here](https://t.me/GopalSaraf)
 
 <!---
 GopalSaraf/GopalSaraf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
