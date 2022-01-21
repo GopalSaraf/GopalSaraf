@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, C++**
 
-- 📫 How to reach me **<a href="gopalsaraf02@gmail.com" >email me</a>**
+- 📫 How to reach me **<a href="mailto:gopalsaraf02@gmail.com" >email me</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
