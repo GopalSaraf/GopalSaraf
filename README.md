@@ -14,7 +14,7 @@
         </tr>
       </table>
       <h3 align="center">A passionate developer from India</h3>
-      <p position='relative' left='200px'>
+      <p position='relative' margin-left='100px'>
       - 🌱 I’m currently learning <strong>everything!</strong><br />
       - 🏫 Learning in Pune Institute of Technology, Pune<br>
       - 💬 Ask me about <strong>Python</strong><br />
