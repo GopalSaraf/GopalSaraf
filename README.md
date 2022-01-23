@@ -1,5 +1,5 @@
-<body text-align='center' border-style='dotted'>
-      <table cellspacing="30" align='center'>
+<body text-align='center'>
+      <table cellspacing="30" align='center' border-style='dotted'>
         <tr>
           <td>
             <img
