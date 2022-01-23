@@ -8,7 +8,7 @@
             />
           </td>
           <td>
-            <h1>Hi <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width='20px'/> ,<br />I'm Gopal Saraf</h1>
+            <h1>Hi <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width='32px'/> ,<br />I'm Gopal Saraf</h1>
           </td>
         </tr>
       </table>
