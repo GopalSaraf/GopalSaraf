@@ -1,17 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Gopal Saraf</title>
-    <link rel="icon" href="images/favicon.ico" />
-  </head>
-  <body>
+  <body text-align='center'>
     <center>
       <table cellspacing="30">
         <tr>
           <td>
             <img
-              src="images/profile.jpg"
+              src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
               alt="Avatar"
               style="border-radius: 50%; width: 200px"
             />
