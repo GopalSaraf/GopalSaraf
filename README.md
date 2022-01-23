@@ -8,7 +8,7 @@
             />
           </td>
           <td>
-                <h1><span postion="relative" margin-bottom="20px">Hi</apan> <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width='50px' /> ,<br />I'm Gopal Saraf</h1>
+                <h1><span postion="relative" margin-bottom="20px">Hi</span> <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width='50px' /> ,<br />I'm Gopal Saraf</h1>
           </td>
         </tr>
       </table>
