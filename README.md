@@ -4,7 +4,7 @@
           <td>
             <img
               src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-              alt="Avatar"
+              alt="Avatar" width='300px'
             />
           </td>
           <td>
