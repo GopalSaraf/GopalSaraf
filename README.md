@@ -1,4 +1,4 @@
-<body text-align='center'>
+<body text-align='center' border='none'>
       <table cellspacing="30" align='center'>
         <tr>
           <td>
