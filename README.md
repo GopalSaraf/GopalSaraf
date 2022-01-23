@@ -15,12 +15,14 @@
         </tr>
       </table>
       <h3 align="center">A passionate developer from India</h3>
+      <p align='center'>
       - 🌱 I’m currently learning <strong>everything!</strong><br />
       - 🏫 Learning in Pune Institute of Technology, Pune<br>
       - 💬 Ask me about <strong>Python</strong><br />
       - 📫 Wanna reach me..
       <strong><a href="mailto:gopalsaraf02@gmail.com">email me</a></strong>
       <br />
+      </p>
       <br />
       <h2 align="center">My Social Connections:</h2>
       <p align="center">
