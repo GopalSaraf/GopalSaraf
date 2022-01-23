@@ -5,7 +5,6 @@
             <img
               src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
               alt="Avatar"
-              style="border-radius: 50%; width: 200px"
             />
           </td>
           <td>
