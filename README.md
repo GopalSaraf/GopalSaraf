@@ -1,4 +1,4 @@
-<body text-align='center' border-style='none'>
+<body text-align='center' border-style='dotted'>
       <table cellspacing="30" align='center'>
         <tr>
           <td>
@@ -9,7 +9,7 @@
             />
           </td>
           <td>
-            <h1>Hi 👋,<br />I'm Gopal Saraf.</h1>
+            <h1>Hi 👋,<br />I'm Gopal Saraf</h1>
           </td>
         </tr>
       </table>
