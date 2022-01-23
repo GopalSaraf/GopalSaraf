@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gopal Saraf</h1>
 <h3 align="center">A passionate developer from India</h3>
-
+<p>
 - 🌱 I’m currently learning **everything!** <br>
 - 🏫 Student at Pune Institute of Computer Technology, Pune <br>
 - 💬 Ask me about **Python** <br>
 - 📫 Wanna reach me.. **<a href="mailto:gopalsaraf02@gmail.com">email me</a>** <br>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
