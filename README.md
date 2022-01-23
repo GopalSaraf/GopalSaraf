@@ -1,5 +1,4 @@
-  <body text-align='center'>
-    <center>
+<body text-align='center'>
       <table cellspacing="30" align='center'>
         <tr>
           <td>
@@ -269,6 +268,5 @@
           alt="gopalsaraf"
         />
       </p>
-    </center>
   </body>
 </html>
