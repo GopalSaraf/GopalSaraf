@@ -1,6 +1,6 @@
   <body text-align='center'>
     <center>
-      <table cellspacing="30" margin='auto'>
+      <table cellspacing="30" align='center'>
         <tr>
           <td>
             <img
