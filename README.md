@@ -267,7 +267,13 @@
           alt="gopalsaraf"
         />
       </p>
-      ![Visitor Count](https://profile-counter.glitch.me/GopalSaraf/count.svg)
+      <p align='center'>
+        <img
+          align="center"
+          src="https://profile-counter.glitch.me/GopalSaraf/count.svg"
+          alt="Visitor Count"
+        />
+      </p>
   </body>
 </html>
 
