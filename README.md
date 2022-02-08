@@ -269,5 +269,5 @@
       </p>
   </body>
 </html>
-![Visitor Count](https://profile-counter.glitch.me/GopalSaraf/count.svg)
+[Visitor Count](https://profile-counter.glitch.me/GopalSaraf/count.svg)
 
