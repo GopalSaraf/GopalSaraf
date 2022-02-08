@@ -268,7 +268,7 @@
         />
       </p>
       <p align='center'>
-            Visitor Count
+            Visitor Count<br>
         <img
           align="center"
           src="https://profile-counter.glitch.me/GopalSaraf/count.svg"
