@@ -267,7 +267,7 @@
           alt="gopalsaraf"
         />
       </p>
-      <p align='center'>
+      <p align='center' style="padding: 10px;">
             Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ<br>
         <img
           align="center"
