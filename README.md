@@ -268,7 +268,7 @@
         />
       </p>
       <p align='center'>
-            Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ<br><br>
+            Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ<br>
         <img
           align="center"
           src="https://profile-counter.glitch.me/GopalSaraf/count.svg"
