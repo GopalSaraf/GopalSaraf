@@ -15,7 +15,7 @@
       <h3 align="center">A passionate developer from India</h3>
       <p align='center'>
       - 🌱 I’m currently learning <strong>everything!         </strong><br />
-      - 🏫 Learning in Pune Institute of Technology, Pune<br>
+      - 🏫 Learning in Pune Institute of Computer Technology, Pune<br>
       - 💬 Ask me about <strong>Python</strong><br />
       - 📫 Wanna reach me..
       <strong><a href="mailto:gopalsaraf02@gmail.com">email me</a></strong>
