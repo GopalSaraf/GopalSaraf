@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **ML, AI, MERN, FLUTTER, Cross-platform App Development, User Interface Design, Software Development Best Practices**
 
-- 📫 How to reach me **gopalsaraf02@gmail.com**
+- 📫 How to reach me **contact@gopalsaraf.com**
 
 - ⚡ Fun fact **An AGI's computational speed is so incredible that it could binge-watch all the movies and TV shows ever made in a split second.**
 
