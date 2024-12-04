@@ -12,7 +12,7 @@
   <tr>
     <td>
       <a href="https://github.com/orgs/InterviewAndHealth/repositories"
-        ><strong>imreadyai</strong></a
+        ><strong>iamreadyai</strong></a
       >
       - Interview Preparation & Mental Health Platform
     </td>
